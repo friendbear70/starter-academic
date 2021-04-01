@@ -12,16 +12,14 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: NAP Lab
-      tag: naplab
+    - name: Research
+      tag: research
     - name: CU Sail
       tag: cusail
     - name: Projects
       tag: projects
-    - name: Other
-      tag: other
 design:
-  columns: "5"
+  columns: "4"
   view: 5
   flip_alt_rows: false
 ---
