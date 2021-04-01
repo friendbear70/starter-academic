@@ -1,7 +1,7 @@
 ---
 title: Sail Counterweight
 date: 2021-04-01T18:39:04.479Z
-summary: ""
+summary: Counterweight designed to counteract th emoment induced by the mast.
 draft: false
 featured: false
 tags:
