@@ -12,12 +12,16 @@ content:
   filter_button:
     - name: All
       tag: "*"
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: NAP Lab
+      tag: naplab
+    - name: CU Sail
+      tag: cusail
+    - name: Projects
+      tag: projects
     - name: Other
-      tag: Demo
+      tag: other
 design:
-  columns: "2"
-  view: 2
+  columns: "5"
+  view: 5
   flip_alt_rows: false
 ---
