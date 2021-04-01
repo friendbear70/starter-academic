@@ -8,7 +8,7 @@ external_link: https://hsinhueichen.netlify.app/project/3D-Microtissue-System-fo
 url_slides: ""
 title: 3D Microtissue System for Artificial Tendon
 tags:
-  - Deep Learning
+  - research
 links:
   - icon: twitter
     icon_pack: fab
