@@ -1,7 +1,7 @@
 ---
 title: Hsin Huei Chen
 role: 3rd Year Mechanical Engineering Student at Cornell University
-avatar_filename: content/authors/admin/51112775_2175404989148954_7800998362999685120_n.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include biomechanics and orthopedics, mechanical
   design, and medical device fabrication.
 interests: []
