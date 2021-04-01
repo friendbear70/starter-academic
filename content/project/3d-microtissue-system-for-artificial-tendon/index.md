@@ -9,13 +9,9 @@ url_slides: ""
 title: 3D Microtissue System for Artificial Tendon
 tags:
   - research
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+links: []
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 url_code: ""
 ---
