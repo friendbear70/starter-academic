@@ -6,7 +6,9 @@ draft: false
 featured: false
 tags:
   - cusail
-external_link: https://cusail.engineering.cornell.edu/
+external_link: "-"
+links:
+  - url: https://cusail.engineering.cornell.edu/
 image:
   filename: featured
   focal_point: Smart
