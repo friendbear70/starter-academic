@@ -6,7 +6,7 @@ draft: false
 featured: false
 tags:
   - research
-external_link: https://hsinhueichen.netlify.app/project/ECM-device/
+external_link: https://hsinhueichen.netlify.app/project/extracellular-matrix-ecm-strain-device/
 image:
   filename: featured
   focal_point: Smart
