@@ -9,6 +9,7 @@ url_slides: ""
 title: 3D Microtissue System for Artificial Tendon
 tags:
   - research
+  - latest
 links: []
 image:
   caption: ""
