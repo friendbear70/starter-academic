@@ -6,6 +6,7 @@ draft: false
 featured: false
 tags:
   - cusail
+  - latest
 external_link: https://hsinhueichen.netlify.app/project/sail-counterweight/
 links:
   - url: https://cusail.engineering.cornell.edu/
