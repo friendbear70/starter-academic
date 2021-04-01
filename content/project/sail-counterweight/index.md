@@ -6,7 +6,7 @@ draft: false
 featured: false
 tags:
   - cusail
-external_link: https://hsinhueichen.netlify.app/project/counterweight
+external_link: https://hsinhueichen.netlify.app/project/sail-counterweight/
 links:
   - url: https://cusail.engineering.cornell.edu/
     name: CU Sail
