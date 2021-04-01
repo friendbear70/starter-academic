@@ -22,24 +22,41 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Undergraduate Researcher
+    company: Andarawis-Puri Lab
+    company_url: "https://andarawispurilab.mae.cornell.edu/"
+    location: Ithaca
+    date_start: '2020-03-14'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Image Analysis
+        * 3D modelling and design (Fusion 360)
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+        Spring 2021 Semester funded by Cornell Engineering Learning Intiative Award
+        
+  - title: Undergraduate Researcher
+    company: Cornell Lab of Accelerator Sciences and Education (CLASSE)
+    company_url: "https://www.classe.cornell.edu/"
+    location: Ithaca
+    date_start: '2019-09-17'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+          
+          *Updating vacuum database using IgorPro
+          *Designing vaccum void models using Autodesk Inventor
+          
+  - title: Undergraduate Researcher
+    company: Yale Computational Neurophysiology Lab
+    company_url: "https://medicine.yale.edu/lab/cnl/"
+    location: Remote
+    date_start: '2020-05-25'
+    date_end: '2020-08-11'
+    description: |2-
+        Responsibilities include:
+          
+          *Implementing machine learning (random forest) to detect and remove noisy data from EEG signals
+  
 ---
