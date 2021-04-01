@@ -6,6 +6,7 @@ draft: false
 featured: false
 tags:
   - projects
+  - latest
 external_link: https://hsinhueichen.netlify.app/project/void-model-of-CBETA-electron-splitter/
 image:
   filename: featured
