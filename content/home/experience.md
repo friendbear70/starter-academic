@@ -45,8 +45,8 @@ experience:
     description: |2-
         Responsibilities include:
           
-          *Updating vacuum database using IgorPro
-          *Designing vaccum void models using Autodesk Inventor
+          * Updating vacuum database using IgorPro
+          * Designing vaccum void models using Autodesk Inventor
           
   - title: Undergraduate Researcher
     company: Yale Computational Neurophysiology Lab
@@ -57,6 +57,6 @@ experience:
     description: |2-
         Responsibilities include:
           
-          *Implementing machine learning (random forest) to detect and remove noisy data from EEG signals
+          * Implementing machine learning (random forest) to detect and remove noisy data from EEG signals
   
 ---
