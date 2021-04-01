@@ -6,9 +6,10 @@ draft: false
 featured: false
 tags:
   - cusail
-external_link: "-"
+external_link: https://hsinhueichen.netlify.app/project/counterweight
 links:
   - url: https://cusail.engineering.cornell.edu/
+    name: CU Sail
 image:
   filename: featured
   focal_point: Smart
