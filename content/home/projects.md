@@ -10,8 +10,8 @@ content:
   page_type: project
   filter_default: 0
   filter_button:
-    - name: All
-      tag: "*"
+    - name: Latest
+      tag:  latest
     - name: Research
       tag: research
     - name: CU Sail
