@@ -31,4 +31,4 @@ Hsin Huei Chen is an undergrad researcher at the [Nelly Andarawis-Puri Lab](http
 
 Outside of the lab, you can find her in the machine shop fabricating parts for her project team, Cornell Autonomous Sailboat or practicing diabolo (Chinese yoyo) with her team, the Pro-Yos. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/hsin-huei-chen-resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/hsin-huei-chen-resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
