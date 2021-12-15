@@ -6,7 +6,7 @@ summary: Mechanical flower for hydration reminder
 draft: false
 featured: false
 tags:
-  - project
+  - projects;class
 external_link: https://hsinhueichen.netlify.app/project/Hydraplant/
 image:
   filename: featured.jpg
