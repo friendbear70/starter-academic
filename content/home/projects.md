@@ -23,5 +23,5 @@ design:
   view: 5
   flip_alt_rows: false
   background:
-    image: featured.png
+    image: ""
 ---
