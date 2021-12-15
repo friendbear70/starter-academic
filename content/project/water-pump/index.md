@@ -6,7 +6,7 @@ summary: MAE 2250 Waterpump Project
 draft: false
 featured: false
 tags:
-  - classes
+  - class
 external_link: https://hsinhueichen.netlify.app/project/water-pump/
 image:
   filename: featured.png
