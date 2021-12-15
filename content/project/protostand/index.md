@@ -8,9 +8,10 @@ tags:
   - projects
 external_link: https://hsinhueichen.netlify.app/project/protostand/
 image:
-  filename: protostand.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
+  caption: Original Design Project MAE 2250
 ---
 [Product Video](https://www.youtube.com/watch?v=LCq_NOfI-1M)
 
