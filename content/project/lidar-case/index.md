@@ -8,7 +8,7 @@ tags:
   - pt
 external_link: https://hsinhueichen.netlify.app/project/lidar-case/
 image:
-  filename: lidarcasing.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 ---
