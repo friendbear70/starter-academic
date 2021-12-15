@@ -20,7 +20,7 @@ content:
       tag: projects
 design:
   columns: "2"
-  view: 5
+  view: 6
   flip_alt_rows: false
   background:
     image: ""
