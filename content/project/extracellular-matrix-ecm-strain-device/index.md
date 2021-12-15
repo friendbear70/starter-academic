@@ -6,7 +6,7 @@ summary: ""
 draft: false
 featured: false
 tags:
-  - research
+  - class
 external_link: https://hsinhueichen.netlify.app/project/reuleaux/
 image:
   filename: featured.png
