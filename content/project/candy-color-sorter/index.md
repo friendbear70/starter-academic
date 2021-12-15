@@ -6,7 +6,7 @@ summary: Simple 3 color M&M sorter.
 draft: false
 featured: false
 tags:
-  - projects
+  - other
 external_link: https://hsinhueichen.netlify.app/project/candy-color-sorter/
 links:
   - url: https://www.youtube.com/watch?v=aXssVnOFLx8
