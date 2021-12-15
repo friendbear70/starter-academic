@@ -34,12 +34,12 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 1
+  view: 3
 ---
 1. Marvin JC, Liu EJ, Chatterjee M, **Chen HH**, & Andarawis-Puri N. “MRL/MpJ Tendon-Derived Provisional Extracellular
 Matrix and Secretome Combined Stimulate Canonical Healing Tendon Cells Toward Regenerative Healing.” In Preparation
 
-2.**Chen HH**, Marvin JC, & Andarawis-Puri N. Designing a 3D Artificial Tendon Microtissue to Elucidate Cell-Matrix
+2. **Chen HH**, Marvin JC, & Andarawis-Puri N. Designing a 3D Artificial Tendon Microtissue to Elucidate Cell-Matrix
 Interactions Underlying Scarless Tendon Healing. Annual Cornell Undergraduate Research Board Fall Forum. Ithaca, NY,
 December 2021. Poster.
 
