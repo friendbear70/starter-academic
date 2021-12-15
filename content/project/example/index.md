@@ -11,7 +11,7 @@ external_link: https://hsinhueichen.netlify.app/project/wiffleball
 url_slides: ""
 subtitle: MAE 3230
 tags:
-  - Class
+  - class
 image:
   caption: ""
   focal_point: Smart
