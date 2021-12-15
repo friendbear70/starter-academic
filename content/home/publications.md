@@ -34,7 +34,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 1
 ---
 1. Marvin JC, Liu EJ, Chatterjee M, Chen HH, & Andarawis-Puri N. “MRL/MpJ Tendon-Derived Provisional Extracellular
 Matrix and Secretome Combined Stimulate Canonical Healing Tendon Cells Toward Regenerative Healing.” In Preparation
