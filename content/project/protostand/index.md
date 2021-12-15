@@ -5,7 +5,7 @@ summary: ""
 draft: false
 featured: false
 tags:
-  - classes;projects
+  - class
 external_link: https://hsinhueichen.netlify.app/project/protostand/
 image:
   filename: featured.jpg
