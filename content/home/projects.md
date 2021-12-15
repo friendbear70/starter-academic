@@ -16,8 +16,8 @@ content:
       tag: pt
     - name: Coursework
       tag: class
-    -name: Other
-      tag: other
+    -name: Projects
+      tag: projects
 design:
   columns: "2"
   view: 5
