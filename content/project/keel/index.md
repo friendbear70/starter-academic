@@ -5,7 +5,7 @@ summary: ""
 draft: false
 featured: false
 tags:
-  - PT
+  - pt
 external_link: https://hsinhueichen.netlify.app/project/keel/
 image:
   filename: featured.jpg
