@@ -1,15 +1,15 @@
 ---
 title: LiDAR Case
 date: 2021-04-01T19:15:44.181Z
-summary: alkdjflkadf
+summary: ""
 draft: false
 featured: false
 tags:
-  - cusail
+  - pt
 external_link: https://hsinhueichen.netlify.app/project/lidar-case/
 image:
-  filename: featured
+  filename: lidarcasing.png
   focal_point: Smart
   preview_only: false
 ---
-alkdsfjlkdsf
+A 3D printed casing for the LiDAR sensor needed to be designed to allow two servos to rotate in the XY and YZ directions.
