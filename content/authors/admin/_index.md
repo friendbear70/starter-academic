@@ -1,6 +1,6 @@
 ---
 title: Hsin Huei Chen
-role: 3rd Year Mechanical Engineering Student at Cornell University
+role: 4th Year Mechanical Engineering Student at Cornell University
 avatar_filename: avatar.jpg
 bio: My research interests include biomechanics and orthopedics, mechanical
   design, and medical device fabrication.
@@ -11,7 +11,7 @@ social:
     link: hc797@cornell.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/clairechen_eng
+    link: https://twitter.com/HHChen__
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/hsin-huei-claire-chen-a03813a3/
