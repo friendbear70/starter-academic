@@ -11,7 +11,7 @@ content:
   filter_default: 0
   filter_button:
     - name: Latest
-      tag:  latest
+      tag: latest
     - name: Research
       tag: research
     - name: CU Sail
@@ -22,4 +22,6 @@ design:
   columns: "2"
   view: 5
   flip_alt_rows: false
+  background:
+    image: featured.png
 ---
