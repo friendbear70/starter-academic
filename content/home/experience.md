@@ -35,6 +35,7 @@ experience:
         * 3D modelling and design (Fusion 360)
         
         Spring 2021 Semester funded by Cornell Engineering Learning Intiative Award
+        Fall 2021 Semester funded by Cornell Engineering Learning Intiative Award
         
   - title: Undergraduate Researcher
     company: Cornell Lab of Accelerator Sciences and Education (CLASSE)
@@ -58,5 +59,17 @@ experience:
         Responsibilities include:
           
          * Implementing machine learning (random forest) to detect and remove noisy data from EEG signals
+
+  - title: Undergraduate Researcher
+    company: MIT Therapeutic Technology Device Design Lab
+    company_url: "https://ttdd.mit.edu/"
+    location: Remote
+    date_start: '2021-05-30'
+    date_end: '2021-08-11'
+    description: |2-
+        Responsibilities include:
+          
+         * Designed and modelled soft pneumatic actuator sleeve for heart failure with preserved enjection fraction using Solidworks and Abaqus
+         * Presented work at 2021 Biomedical Engineering Society Annual Conference
   
 ---
