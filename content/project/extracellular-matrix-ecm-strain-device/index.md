@@ -1,5 +1,5 @@
 ---
-title: C3Reuleaux Machine
+title: C3 Reuleaux Machine
 subtitle: MAE 2250
 date: 2021-12-15T16:28:30.751Z
 summary: ""
