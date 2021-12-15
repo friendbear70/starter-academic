@@ -14,3 +14,5 @@ image:
   preview_only: false
 ---
 Used Fusion 360 to replicate Reuleaux's C3
+
+Four bar linkages in general can convert rotational motion to reciprocating motion, convert reciprocating motion to rotational motion, constrain motion, and magnify force. In the case of C3, the rotational motion of the handle converts the back shorter vertical bar to a reciprocating motion. Because of the curvature of the two longer bars, the machine moves in a non-planar behavior.
