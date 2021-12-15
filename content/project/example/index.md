@@ -4,7 +4,7 @@ url_pdf: ""
 title: Fluid Mechanics Dissection of a Wiffle Ball
 summary: Dissection of a wiffleball
 url_video: ""
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 categories:
   - Classes
 external_link: https://hsinhueichen.netlify.app/project/wiffleball
@@ -20,7 +20,7 @@ links:
 image:
   caption: ""
   focal_point: Smart
-  filename: dissectedwiffle.png
+  filename: featured.png
 url_code: ""
 ---
 [Video Link](https://youtu.be/u8LTHyxW4Lk)
