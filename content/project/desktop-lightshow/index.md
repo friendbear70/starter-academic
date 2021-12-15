@@ -5,7 +5,8 @@ date: 2021-12-15T16:33:30.645Z
 draft: false
 featured: false
 tags:
-  - classes;projects
+  - class
+  - projects
 external_link: https://hsinhueichen.netlify.app/project/desktop-ls/
 links:
   - url: https://youtu.be/ej-2zhSc1yI
