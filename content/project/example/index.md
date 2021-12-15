@@ -11,12 +11,7 @@ external_link: https://hsinhueichen.netlify.app/project/wiffleball
 url_slides: ""
 subtitle: MAE 3230
 tags:
-  - Classes
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+  - Class
 image:
   caption: ""
   focal_point: Smart
