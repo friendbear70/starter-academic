@@ -10,8 +10,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: 'Marvin JC, Liu EJ, Chatterjee M, Chen HH, & Andarawis-Puri N. “MRL/MpJ Tendon-Derived Provisional Extracellular
-Matrix and Secretome Combined Stimulate Canonical Healing Tendon Cells Toward Regenerative Healing.” In Preparation'
+subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -37,7 +36,5 @@ design:
   #   4 = Citation (publication only)
   view: 4
 ---
-
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+Marvin JC, Liu EJ, Chatterjee M, Chen HH, & Andarawis-Puri N. “MRL/MpJ Tendon-Derived Provisional Extracellular
+Matrix and Secretome Combined Stimulate Canonical Healing Tendon Cells Toward Regenerative Healing.” In Preparation'
