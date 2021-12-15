@@ -1,15 +1,15 @@
 ---
 title: Keel
 date: 2021-04-01T19:15:20.621Z
-summary: aldkflkdsaf
+summary: ""
 draft: false
 featured: false
 tags:
-  - cusail
+  - PT
 external_link: https://hsinhueichen.netlify.app/project/keel/
 image:
-  filename: featured
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
-adkfjalkdsf
+Using an angle grinder, a large sheet of aluminum was angle grinded into the keel of our sailboat.
