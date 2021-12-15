@@ -10,14 +10,14 @@ content:
   page_type: project
   filter_default: 0
   filter_button:
-    - name: Latest
-      tag: latest
     - name: Research
       tag: research
-    - name: CU Sail
-      tag: cusail
-    - name: Projects
-      tag: projects
+    - name: Project Team
+      tag: pt
+    - name: Coursework
+      tag: class
+    -name: Other
+      tag: other
 design:
   columns: "2"
   view: 5
