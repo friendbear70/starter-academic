@@ -5,13 +5,16 @@ title: Fluid Mechanics Dissection of a Wiffle Ball
 summary: Dissection of a wiffleball
 url_video: ""
 date: 2016-04-27T00:00:00.000Z
+categories:
+  - class
 external_link: https://hsinhueichen.netlify.app/project/wiffleball
 url_slides: ""
 subtitle: MAE 3230
 tags:
   - class
-categories:
-  - class
+links:
+  - url: https://youtu.be/u8LTHyxW4Lk
+    name: Video
 image:
   caption: ""
   focal_point: Smart
