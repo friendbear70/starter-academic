@@ -7,7 +7,7 @@ draft: false
 featured: false
 tags:
   - class
-external_link: https://hsinhueichen.netlify.app/project/reuleaux/
+external_link: https://hsinhueichen.netlify.app/project/c3-reuleaux-machine/
 image:
   filename: featured.png
   focal_point: Smart
