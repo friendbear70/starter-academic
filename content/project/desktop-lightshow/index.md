@@ -7,7 +7,7 @@ featured: false
 tags:
   - class
   - projects
-external_link: https://hsinhueichen.netlify.app/project/desktop-ls/
+external_link: https://hsinhueichen.netlify.app/project/desktop-lightshow/
 links:
   - url: https://youtu.be/ej-2zhSc1yI
 image:
