@@ -12,7 +12,7 @@ content:
   filter_button:
     - name: Painting
       tag: painting
-    - name: Photograph
+    - name: Photography
       tag: photography
     - name: Misc
       tag: misc
