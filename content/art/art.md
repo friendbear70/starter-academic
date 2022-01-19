@@ -7,7 +7,7 @@ title: Artwork
 subtitle: "Under Construction"
 active: true
 content:
-  page_type: project
+  page_type: art
   filter_default: 0
   filter_button:
     - name: Painting
