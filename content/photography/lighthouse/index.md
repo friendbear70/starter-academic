@@ -1,21 +1,17 @@
 ---
-slides: ""
-url_pdf: ""
 title: Lighthouse
-summary: ""
-url_video: ""
-date: 2021-04-01T19:11:50.100Z
-external_link: https://hsinhueichen.netlify.app/photography/lighthouse
-url_slides: ""
-subtitle: Lighthouse in Boston
+subtitle: Photography in Boston
+date: 2021-12-15T16:33:30.645Z
+draft: false
+featured: false
 tags:
   - photography
   - class
   - projects
-links: []
+external_link: https://hsinhueichen.netlify.app/photography/lighthouse
 image:
-  caption: ""
+  filename: featured.jpg
   focal_point: Smart
-  filename: featured.png
-url_code: ""
+  preview_only: false
 ---
+
