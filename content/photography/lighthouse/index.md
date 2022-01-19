@@ -16,6 +16,6 @@ links: []
 image:
   caption: ""
   focal_point: Smart
-  filename: DSCN1345.JPG
+  filename: featured.png
 url_code: ""
 ---
