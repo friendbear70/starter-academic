@@ -4,8 +4,7 @@ type: widget_page
 
 # Homepage is headless, other widget pages are not.
 headless: False
----
----
+
 widget: portfolio
 widget_id: artwork
 headless: true
