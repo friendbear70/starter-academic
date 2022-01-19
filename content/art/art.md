@@ -18,7 +18,7 @@ content:
       tag: misc
 design:
   columns: "2"
-  view: 6
+  view: 5
   flip_alt_rows: false
   background:
     image: ""
