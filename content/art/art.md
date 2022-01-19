@@ -4,7 +4,7 @@ widget_id: artwork
 headless: true
 weight: 65
 title: Artwork
-subtitle: ""
+subtitle: "Under Construction"
 active: true
 content:
   page_type: project
