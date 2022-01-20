@@ -10,17 +10,17 @@ content:
   page_type: project
   filter_default: 0
   filter_button:
-    - name: All
-      tag: all
-    - name: Project Team
-      tag: pt
-    - name: Coursework
-      tag: class
-    - name: Projects
-      tag: projects
+    - name: Latest
+      tag: latest
+    - name: Photography
+      tag: photo
+    - name: Painting
+      tag: paint
+    - name: Misc
+      tag: misc
 design:
   columns: "2"
-  view: 6
+  view: 5
   flip_alt_rows: false
   background:
     image: ""

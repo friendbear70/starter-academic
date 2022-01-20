@@ -5,11 +5,11 @@ title: Lighthouse2
 summary: ""
 url_video: ""
 date: 2021-04-01T19:11:50.100Z
-external_link: https://hsinhueichen.netlify.app/art/lighthouse2
+external_link: ""
 url_slides: ""
 subtitle: Lighthouse in Boston
 tags:
-  - photography
+  - photo
 links: []
 image:
   caption: ""
