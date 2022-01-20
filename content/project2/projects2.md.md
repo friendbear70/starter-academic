@@ -3,7 +3,7 @@ widget: portfolio
 widget_id: Recent-Posts
 headless: true
 weight: 65
-title: Projects
+title: Test
 subtitle: ""
 active: true
 content:
