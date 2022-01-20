@@ -11,7 +11,7 @@ content:
   filter_default: 0
   filter_button:
     - name: All
-      tag: *
+      tag: all
     - name: Project Team
       tag: pt
     - name: Coursework
