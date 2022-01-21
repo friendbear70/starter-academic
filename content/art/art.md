@@ -20,7 +20,7 @@ content:
       tag: misc
 design:
   columns: "2"
-  view: 5
+  view: 3
   flip_alt_rows: false
   background:
     image: ""

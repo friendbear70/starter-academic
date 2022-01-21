@@ -10,7 +10,6 @@ url_slides: ""
 subtitle: Spring 2021 Engineering Learning Initiative Project
 tags:
   - research
-  - latest
 links: []
 image:
   caption: ""
